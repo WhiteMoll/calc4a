@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="clear">CLEAR</string>
+    <string name="del">DEL</string>
+    <string name="show_details">Details</string>
+    <string name="show_features">Features</string>
+    <string name="features_list"><![CDATA[
+
+            <h1>Available features:</h1>
+            <p><strong>L</strong>anguages: french and english.</p>
+            <p><strong>O</strong>rientations: portrait and landscape.</p>
+
+            <p><strong>N</strong>atural writing with respect of the priorities.</p>
+            <p><strong>R</strong>eal-time result.</p>
+            <p><strong>P</strong>arenthesis and decimal numbers.</p>
+            <p><strong>C</strong>orrection.</p>
+            <p><strong>S</strong>upported errors:</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>+</strong>Writing mistakes (missing parenthesis,…).</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>+</strong>Precision overflow.</p>
+            <p><strong>\"D</strong>etails\" button: Calculation progress display.</p>
+
+
+    ]]></string>
+</resources>

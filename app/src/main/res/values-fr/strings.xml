@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+
+    <string name="clear">EFFACER</string>
+    <string name="del">CORRIGER</string>
+    <string name="show_details">Détails</string>
+    <string name="show_features">Fonctionnalités</string>
+    <string name="features_list"><![CDATA[
+
+            <h1>Fonctionnalités présentes dans l\'appli :</h1>
+            <p><strong>L</strong>angues disponibles : français et anglais.</p>
+            <p><strong>A</strong>ffichage portrait et paysage.</p>
+
+            <p><strong>C</strong>alcul en écriture naturelle avec respect des priorités.</p>
+            <p><strong>A</strong>ffichage en temps-réel du résultat.</p>
+            <p><strong>P</strong>arenthèses et nombres décimaux.</p>
+            <p><strong>C</strong>orrection ou effacement complet du calcul.</p>
+            <p><strong>E</strong>rreurs prises en charge :</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>+</strong>Erreurs d\'écriture (parenthèses manquantes,…).</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>+</strong>Dépassement de la précision maximale.</p>
+            <p><strong>B</strong>outon "Détails" : Affichage du déroulement du calcul.</p>
+
+
+    ]]></string>
+
+</resources>

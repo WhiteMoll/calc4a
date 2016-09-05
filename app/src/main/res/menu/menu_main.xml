@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/show_details" android:title="@string/show_details"
+        android:orderInCategory="100" app:showAsAction="ifRoom" />
+    <item android:id="@+id/show_features" android:title="@string/show_features"
+        android:orderInCategory="100" app:showAsAction="ifRoom" />
+</menu>
